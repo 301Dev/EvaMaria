@@ -4,8 +4,8 @@ I am Movie Search Bot!
 ✧ Just Add Me In Your Groups
 ✧ Send The Name Of The Me To Get The Movie Enjoy!
 
-⍟ [Updates](t.me/CrowdXStrike) | ⍟ [Chat](t.me/CrowdStrikeChat) | ⍟ [Film Zone](t.me/+hKEstDgt8wc1ZDdl)"""
-    HELP_TXT = """𝙷𝙴𝚈 {}
+⍟ <a href=https://t.me/CrowdXStrike>Updates</a> | ⍟ <a href=https://t.me/CrowdStrikeChat>Chat</a> | ⍟ <a href=https://t.me/Film_Zones>Film Zones</a>"""
+    HELP_TXT = """Hey {}
 Here Is The Help View For My Commands"""
     ABOUT_TXT = """✯ My Name is : Movies Search Bot
 ✯ Creator: <a href=https://t.me/Film_Zones>Film Zones</a>
@@ -21,10 +21,10 @@ Here Is The Help View For My Commands"""
 - Powered By ~ @CrowdXStrike | @YuichiroNetwork"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and Movies Search Bot will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. eva maria should have admin privillage.
+1. Movies Search Bot should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -39,7 +39,7 @@ Here Is The Help View For My Commands"""
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Eva Maria supports buttons with any telegram media type.
+2. Movies Search Bot supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
@@ -94,7 +94,7 @@ This module only works for my admins
 • /unban  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
-    STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
+    STATUS_TXT = """★ Total Files: <code>{}</code>
 ★ Total Users: <code>{}</code>
 ★ Total Chats: <code>{}</code>
 ★ Used Storage: <code>{}</code> 𝙼𝚒𝙱
